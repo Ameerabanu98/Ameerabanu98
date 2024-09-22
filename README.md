@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ameera banu
-- 🌱 I’m currently learning data science and machine learning
-- love to learn and create new things.
+- 🌱 I’m  data science and machine learning student.
+- Aspiring to be a data anaylist.
 
 
 <!---
